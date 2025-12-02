@@ -1,6 +1,6 @@
 # Prototype Modulation Network for Cross-Domain Few-Shot Semantic Segmentation
 
-#### This is the official implementation of our paper "Prototype Modulation Network for Cross-Domain Few-Shot Semantic Segmentation", which is submitted to TMM2025.
+#### This is the official implementation of our paper "Prototype Modulation Network for Cross-Domain Few-Shot Semantic Segmentation", which is submitted to TNNLS2025.
 ![image](figs/overall.png) 
 
 # Dataset
